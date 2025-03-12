@@ -21,11 +21,11 @@ Welcome to my GitHub! I'm a backend developer with a strong focus on building sc
 
 ## 📫 Connect with me
 - Email: elbouzkri9@gmail.com
+- LinkedIn: [zakariaelbouzkri](https://linkedin.com/in/zakariaelbouzkri)
 
 ## 📫 Profiles
 - LeetCode: [elbouzkri9](https://leetcode.com/u/elbouzkri9/)
 - HackerRank: [elbouzkri9](https://www.hackerrank.com/profile/elbouzkri9)
-- LinkedIn: [zakariaelbouzkri](https://linkedin.com/in/zakariaelbouzkri)
 
 Feel free to explore my repos and reach out!
 
