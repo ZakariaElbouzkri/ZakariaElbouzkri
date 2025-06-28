@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm a Full-Stack Developer
+# Hi there! 👋 I'm a Software Engineer
 
-I specialize in building web applications from end to end, with a passion for creating scalable systems and clean, maintainable code.
+I specialize in building software from end to end, with a passion for creating scalable systems and clean, maintainable code.
 
 ## 🚀 About Me
 
