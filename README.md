@@ -4,7 +4,7 @@ I specialize in building software from end to end, with a passion for creating s
 
 ## 🚀 About Me
 
-I'm a Backend/Full-stack Engineer who loves tackling complex system architecture challenges. On the backend, I work primarily with Python and Django/FastAPI to create APIs, real-time systems, and secure authentication solutions. I have experience integrating AI capabilities into applications and enjoy building systems that scale efficiently.
+I'm a Software Engineer who loves tackling complex system architecture challenges. On the backend, I work primarily with Python and Django/FastAPI to create APIs, real-time systems, and secure authentication solutions. I have experience integrating AI capabilities into applications and enjoy building systems that scale efficiently.
 
 I'm also proficient in TypeScript and NestJS, and I enjoy working with lower-level languages like C/C++ and Golang when performance is critical. For the frontend, I build modern, responsive user interfaces using Next.js and style them with Tailwind CSS.
 
